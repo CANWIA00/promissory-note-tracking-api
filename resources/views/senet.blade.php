@@ -13,7 +13,8 @@
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@getbootstrap">Güncelle</button>
             @include("senetUpdate")
             <a type="button" class="btn btn-success" href="{{ route('getById',['id'=>$value->id])}}">Detaylar</a>
-          </div></td>
+          </div>
+        </td>
     </tr>
 @endforeach
 @endsection
