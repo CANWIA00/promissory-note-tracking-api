@@ -19,8 +19,7 @@ Promissory note tracking API is a web API that provides you an opportunity to ta
 
 ## Project Functionality and Structure
 
-Project was designed according to MVC and most current approach of MVC architecture. Project was divided to particular modules for aspect oriented programing(AOP). Project was taked guide to produce requered to SOLID principle and more effective creation at all creation steps. 
-
+This project takes guidelines and pointers from SOLID principles and includes them in all steps to create the most effective output possible.
 
 
 
