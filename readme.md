@@ -8,7 +8,7 @@
 </p>
 
 ## About Project
-Promissory note tracking api is a web api that gives you an opportunity to take a note and track your account or business budget. You can find out who have what kind of promissory note and how much have debt, how much is going to pay or how much paid.
+Promissory note tracking API is a web API that provides you an opportunity to take notes, and track your account or business budget. You can also discover what kind of promissory note and how much debt you have, how much you need to pay as well as how much is already paid.
 
 
 ## Application Properties
@@ -19,7 +19,7 @@ Promissory note tracking api is a web api that gives you an opportunity to take 
 
 ## Project Functionality and Structure
 
-Project was designed according to MVC and most current approach of MVC architecture. Project was divided to particular modules for aspect oriented programing(AOP). Project was taked gui to produce requered to SOLID principle and more effective creation at all creation steps. 
+Project was designed according to MVC and most current approach of MVC architecture. Project was divided to particular modules for aspect oriented programing(AOP). Project was taked guide to produce requered to SOLID principle and more effective creation at all creation steps. 
 
 
 
