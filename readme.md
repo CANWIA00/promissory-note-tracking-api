@@ -16,7 +16,7 @@ This project takes guidelines and pointers from SOLID principles and includes th
 
 
 ### Application Properties
-<hr>
+
 - Php
 - Php Laravel
 - Mysql
