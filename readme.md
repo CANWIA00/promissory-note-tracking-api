@@ -13,6 +13,8 @@ Promissory note tracking API is a web API that provides you an opportunity to ta
 This project takes guidelines and pointers from SOLID principles and includes them in all steps to create the most effective output possible.
 
 
+
+
 ### Application Properties
 - Php
 - Php Laravel
