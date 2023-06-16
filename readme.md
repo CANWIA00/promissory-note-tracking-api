@@ -1,6 +1,6 @@
 # Promissory Note Tracking API
 
-## Project Physical Appearance
+### Project Physical Appearance
 ![Promissory Note Tracking Panel!](Create.png) 
 ![Promissory Note Tracking Panel!](Update.png) 
 
@@ -13,17 +13,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Project
+### About Project
 Promissory note tracking API is a web API that provides you an opportunity to take notes, and track your account or business budget. You can also discover what kind of promissory note and how much debt you have, how much you need to pay as well as how much is already paid.
 
 
-## Application Properties
+### Application Properties
 - Php
 - Php Laravel
 - Mysql
 - Html,Css,Bootstrap5.
 
-## Project Functionality and Structure
+### Project Functionality and Structure
 
 This project takes guidelines and pointers from SOLID principles and includes them in all steps to create the most effective output possible.
 
