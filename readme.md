@@ -1,5 +1,5 @@
 <h1 align="center">
-  Promissory Note Tracking API
+  Promissory Note Tracking API 💵🤑
 </h1>
 
 ### Project Physical Appearance
